@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+    <string name="aula_de_android">Aula de Android</string>
+    <string name="sobre">Sobre</string>
+    <string name="sair">sair</string>
+    <string name="abrir">Abril</string>
+    <string name="fechar">Fechar</string>
+    <string name="clicou_sobre">Clicou em sobre...</string>
+</resources>
